@@ -6,10 +6,6 @@ import retrofit2.http.*;
 
 import java.util.List;
 
-/**
- * Created by lschidu on 1/5/17.
- */
-
 public interface ApiService {
 
     @POST("/todos")
